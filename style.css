@@ -1,0 +1,16 @@
+html {
+    font-family: Helvetica, sans-serif;
+    font-size: 1.1em;
+    letter-spacing: 0.02em;
+    margin-top: 0.5em;
+    margin-left: 2em;
+}
+
+div {
+   margin-bottom: 1em;
+}
+
+/* Change svg background color. */
+.area {
+    background-color: rgb(184, 184, 184);
+}
