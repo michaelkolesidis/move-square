@@ -16,5 +16,6 @@
 </div>
 <br>                                                                
 <div align="center">
-  <a href="https://endsoftwarepatents.org/innovating-without-patents"><img style="height: 90px;" src="https://static.fsf.org/nosvn/esp/logos/innovating-without-patents.svg"></a>
+  <a href="https://endsoftwarepatents.org/innovating-without-patents"><img style="height: 40px;" src="https://static.fsf.org/nosvn/esp/logos/patent-free.svg"></a>
+
 </div>
