@@ -1,9 +1,3 @@
-<div align="center">
-  
-  
-  
-</div>
-
 <img scr="./move-square.gif" />
 
 <h1 align="center">Move Square</h1>
