@@ -1,7 +1,10 @@
 <div align="center">
-  <img scr="./move-square.gif" />
+  
+  
+  
 </div>
 
+<img scr="./move-square.gif" />
 
 <h1 align="center">Move Square</h1>
 
