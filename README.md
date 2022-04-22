@@ -1,5 +1,7 @@
 <h1 align="center">Move Square</h1>
-  
+
+<a href="https://move-square.netlify.app/"><h3 align="center">Try me!</h3></a>
+
   
 ## Technologies Used
 <a href=""><img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/svg/svg-original.svg" height="50px"></a>
