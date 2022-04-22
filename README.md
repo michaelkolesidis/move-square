@@ -1,11 +1,25 @@
-<div align="center">
-  <h1>move-square</h1>
-  <img src="https://github.com/michaelkolesidis/move-square/blob/main/move-square-screenshot.png">
-  <p>A simple SVG example featuring a movable square.</p>
-</div>
+<h1 align="center">Move Square</h1>
+  
+  
+## Technologies Used
+<a href=""><img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/svg/svg-original.svg" height="50px"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/javascript/javascript-original.svg" height="50px" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://en.wikipedia.org/wiki/CSS"><img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/css3/css3-plain.svg" height="50px" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/html5/html5-plain.svg" height="50px" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+  
+## Description
+A simple SVG example featuring a movable square. An SVG image is regenerated using JavaScript, when a keyboard arrow is pressed.
 
 
 
+## Screenshot
+<img src="https://github.com/michaelkolesidis/move-square/blob/main/move-square-screenshot.png" />
 
 
 [//]: # (Free Software)
