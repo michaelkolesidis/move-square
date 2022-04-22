@@ -1,11 +1,11 @@
 let areaSize = {
-    width: 20,
-    height: 20
+    width: 50,
+    height: 50
 };
 
 let position = {
-    x: 10,
-    y: 10
+    x: 25,
+    y: 25
 };
 
 let moveRate = 10;
