@@ -14,3 +14,25 @@ div {
 .area {
     background-color: rgb(184, 184, 184);
 }
+
+footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+  }
+  
+  footer > p {
+    margin: 1rem;
+    font-size: 1.2rem;
+    font-weight: 500;
+    letter-spacing: 0.2rem;
+  }
+  
+  a,
+  a:visited {
+      color: black;
+  }
+  
+  #heart {
+    font-size: 1.6rem;
+  }
