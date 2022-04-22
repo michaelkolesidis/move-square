@@ -4,6 +4,7 @@
 
   
 ## Technologies Used
+
 <a href=""><img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/svg/svg-original.svg" height="50px"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/javascript/javascript-original.svg" height="50px" /></a>
@@ -16,12 +17,22 @@
 
   
 ## Description
+
 A simple SVG example featuring a movable square. An SVG image is regenerated using JavaScript, when a keyboard arrow is pressed.
 
 
 
 ## Screenshot
+
 <img src="https://github.com/michaelkolesidis/move-square/blob/main/move-square-screenshot.png" />
+
+
+
+## License
+
+Copyright (c) 2022 Michael Kolesidis<br>
+Licensed under the [GNU General Public License v3.0](https://github.com/michaelkolesidis/webproject-script/blob/main/LICENSE).
+
 
 
 [//]: # (Free Software)
