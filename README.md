@@ -1,3 +1,8 @@
+<div align="center">
+  <img scr="./move-square.gif" />
+</div>
+
+
 <h1 align="center">Move Square</h1>
 
 <a href="https://move-square.netlify.app/"><h3 align="center">Try me!</h3></a>
@@ -24,7 +29,7 @@ A simple SVG example featuring a movable square. An SVG image is regenerated usi
 
 ## Screenshot
 
-<img src="https://github.com/michaelkolesidis/move-square/blob/main/move-square-screenshot.png" />
+<img src="./screenshot-01.png" />
 
 
 
