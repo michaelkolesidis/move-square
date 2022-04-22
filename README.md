@@ -1,8 +1,13 @@
-<img scr="./move-square.gif" />
+<div align="center">
+  <img src="./move-square.gif" height="500px"/>
+</div>
 
 <h1 align="center">Move Square</h1>
 
 <a href="https://move-square.netlify.app/"><h3 align="center">Try me!</h3></a>
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4a662837-b4fa-4f29-b96a-4f4ae4262bd0/deploy-status)](https://app.netlify.com/sites/move-square/deploys)
+
 
   
 ## Technologies Used
