@@ -1,11 +1,13 @@
 <div align="center">
-  <img scr="./move-square.gif" />
+  <img src="./move-square.gif" height="500px"/>
 </div>
-
 
 <h1 align="center">Move Square</h1>
 
 <a href="https://move-square.netlify.app/"><h3 align="center">Try me!</h3></a>
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4a662837-b4fa-4f29-b96a-4f4ae4262bd0/deploy-status)](https://app.netlify.com/sites/move-square/deploys)
+
 
   
 ## Technologies Used
@@ -35,8 +37,15 @@ A simple SVG example featuring a movable square. An SVG image is regenerated usi
 
 ## License
 
+<a href="https://www.gnu.org/licenses/gpl-3.0.html"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/GPLv3_Logo.svg" height="100px" /></a>
+
 Copyright (c) 2022 Michael Kolesidis<br>
-Licensed under the [GNU General Public License v3.0](https://github.com/michaelkolesidis/webproject-script/blob/main/LICENSE).
+Licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html).
+
+
+
+<br>
+<br>
 
 
 
