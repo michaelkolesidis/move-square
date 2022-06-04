@@ -1,38 +1,38 @@
 html {
-    font-family: Helvetica, sans-serif;
-    font-size: 1.1em;
-    letter-spacing: 0.02em;
-    margin-top: 0.5em;
-    margin-left: 2em;
+  font-family: Helvetica, sans-serif;
+  font-size: 1.1em;
+  letter-spacing: 0.02em;
+  margin-top: 0.5em;
+  margin-left: 2em;
 }
 
 div {
-   margin-bottom: 1em;
+  margin-bottom: 1em;
 }
 
 /* Change svg background color. */
 .area {
-    background-color: rgb(184, 184, 184);
+  background-color: rgb(184, 184, 184);
 }
 
 footer {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-  }
-  
-  footer > p {
-    margin: 1.6rem;
-    font-size: 1.2rem;
-    font-weight: 500;
-    letter-spacing: 0.2rem;
-  }
-  
-  a,
-  a:visited {
-      color: black;
-  }
-  
-  #heart {
-    font-size: 1.6rem;
-  }
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+footer > p {
+  margin: 1.6rem;
+  font-size: 1.2rem;
+  font-weight: 500;
+  letter-spacing: 0.2rem;
+}
+
+a,
+a:visited {
+  color: black;
+}
+
+#heart {
+  font-size: 1.6rem;
+}
