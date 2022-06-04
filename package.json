@@ -1,0 +1,23 @@
+{
+  "name": "move-square-ts",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">   <img src=\"./move-square.gif\" height=\"500px\"/> </div>",
+  "main": "moveSquare.js",
+  "scripts": {
+    "build": "tsc --build",
+    "clean": "tsc --build --clean"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelkolesidis/move-square.git"
+  },
+  "author": "",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/michaelkolesidis/move-square/issues"
+  },
+  "homepage": "https://github.com/michaelkolesidis/move-square#readme",
+  "devDependencies": {
+    "typescript": "^4.7.3"
+  }
+}

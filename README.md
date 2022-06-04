@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./move-square.gif" height="500px"/>
+  <img src="./screenshots/move-square.gif" height="500px"/>
 </div>
 
 <h1 align="center">Move Square</h1>
@@ -31,7 +31,7 @@ A simple SVG example featuring a movable square. An SVG image is regenerated usi
 
 ## Screenshot
 
-<img src="./screenshot-01.png" />
+<img src="./screenshots/screenshot-01.png" />
 
 
 
